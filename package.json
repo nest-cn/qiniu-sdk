@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nest-cn/nestjs-kafka.git"
+    "url": "https://github.com/nest-cn/qiniu-sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/nest-cn/nestjs-kafka/issues"
+    "url": "https://github.com/nest-cn/qiniu-sdk/issues"
   },
   "main": "./dist/index.js",
   "module": "./dist/index.js",
