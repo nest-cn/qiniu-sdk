@@ -31,7 +31,7 @@ import { QiniuModule } from 'nestjs-qiniu';
 export class Module {}
 ```
 
-### How to sendMessage
+### How to use
 
 ```ts
 import { QiniuService } from "nestjs-qiniu";
